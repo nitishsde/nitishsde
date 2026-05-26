@@ -98,10 +98,6 @@ Passionate Software Engineer and Java Developer focused on building scalable web
 
 <div align="center">
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=nitishsde&theme=tokyonight&hide_border=true" 
-alt="Nitish Singh GitHub Streak Stats" 
-style="margin-top:25px;" 
-/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ndeto&" alt="daniel-ndeto" /></p>
 
 </div>
