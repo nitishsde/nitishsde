@@ -4,7 +4,7 @@
 
 #  Welcome !, I'm Nitish Singh
 
-###  Software Engineer | MERN Stack Developer | React JS | Generative AI Enthusiast
+###  Software Engineer | JAVA Developer | React JS | Generative AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaFull+Stack+Developer;Founder+Of+GenfidAi;Future+SDE-2;React+JS+Developer;Learning+.NET+and+Java;Building+Startup+Projects;Passionate+About+System+Design" />
 
