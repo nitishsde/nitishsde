@@ -15,7 +15,7 @@
 </p>
 
 </div>
-Passionate Software Engineer and Java Developer focused on building scalable web applications, startup products, and modern user experiences. Skilled in React JS, JavaScript, Node.js, and backend integration. Currently learning Java, .NET, System Design, and Generative AI to grow into a strong Full Stack SDE-2 Engineer.
+Passionate Software Engineer and Java Developer focused on building scalable web applications, startup products, and modern user experiences. Skilled in React JS, JavaScript, Node.js, and backend integration. Currently learning Java (Spring Boot), MERN + AI, System Design, and Generative AI to grow into a strong Full Stack SDE-2 Engineer.
 
 - 💬 Ask me about **Flutter, Java Raect, MySQL, mongoDB, Javascript, Spring Boot CSS, HTML and Node Js**
 <h2>    - Languages & Tools</h2>
