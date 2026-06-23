@@ -22,6 +22,16 @@ Passionate Software Engineer and Java Developer focused on building scalable web
 <div align="center">
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; padding:20px;">
 
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="55" height="55" style="margin:12px;" />
+</a>
+<a href="https://redux.js.org" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynHCdbJsaar8ZNjcZuy43IBQXFU7kDGbuxJYVy601cQ&s=10" width="55" height="55" style="margin:12px;" />
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwsSsBThg4hbF2wpFd_pFu37S9nyOWO8WdZH3vSTKsw&s=10" width="55" height="55" style="margin:12px;" />
+</a>
+
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" style="margin:12px;" />
 </a>
@@ -56,7 +66,6 @@ Passionate Software Engineer and Java Developer focused on building scalable web
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" style="margin:12px;" />
 </a>
-
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" style="margin:12px;" />
 </a>
@@ -73,20 +82,8 @@ Passionate Software Engineer and Java Developer focused on building scalable web
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55" style="margin:12px;" />
 </a>
 
-<a href="https://redux.js.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="55" height="55" style="margin:12px;" />
-</a>
-
 <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55" style="margin:12px;" />
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" style="margin:12px;" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" width="55" height="55" style="margin:12px;" />
 </a>
 
 </p>
