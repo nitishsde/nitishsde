@@ -6,7 +6,7 @@
 
 ###  Software Engineer | JAVA Developer | React JS | Generative AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaFull+Stack+Developer;Founder+Of+GenfidAi;Future+SDE-2;React+JS+Developer;Learning+MERN with GenAI+and+Java with GenAI;Building+Startup+Projects;Passionate+About+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaFull+Stack+Developer;Founder+Of+GenfidAi;Future+SDE-2;React+JS+Developer;Learning+MERN+and+Java;Building+Startup+Projects;Passionate+About+System+Design" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nitishsde&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
