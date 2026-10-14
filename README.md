@@ -6,7 +6,7 @@
 
 ###  Software Engineer | JAVA Developer | React JS | Generative AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaFull+Stack+Developer;Founder+Of+GenfidAi;Future+SDE-2;React+JS+Developer;Learning+.NET+and+Java;Building+Startup+Projects;Passionate+About+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaFull+Stack+Developer;Founder+Of+GenfidAi;Future+SDE-2;React+JS+Developer;Learning+MERN with GenAI+and+Java with GenAI;Building+Startup+Projects;Passionate+About+System+Design" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nitishsde&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -17,7 +17,7 @@
 </div>
 Passionate Software Engineer and Java Developer focused on building scalable web applications, startup products, and modern user experiences. Skilled in React JS, JavaScript, Node.js, and backend integration. Currently learning Java (Spring Boot), MERN + AI, System Design, and Generative AI to grow into a strong Full Stack SDE-2 Engineer.
 
-- 💬 Ask me about **Flutter, Java Raect, MySQL, mongoDB, Javascript, Spring Boot CSS, HTML and Node Js**
+- 💬 Ask me about **Flutter, Java React, MySQL, mongoDB, Javascript, Spring Boot CSS, HTML and Node Js**
 <h2>    - Languages & Tools</h2>
 <div align="center">
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; padding:20px;">
